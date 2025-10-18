@@ -1,12 +1,22 @@
 [
   {
-    "name": "خودم t4kin",
+    "name": "Ø®ÙØ¯Ù t4kin",
     "telegramId": "94858184",
     "startDate": "2025-10-16",
     "subscriptionDays": 30,
     "enabled": true,
     "subscribedMonitors": [
-      "ملک"
+      "ÙÙÚ©"
+    ]
+  },
+  {
+    "name": "me",
+    "telegramId": "5563816190",
+    "startDate": "2025-10-17",
+    "subscriptionDays": 30,
+    "enabled": true,
+    "subscribedMonitors": [
+      "me"
     ]
   }
 ]
