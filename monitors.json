@@ -1,7 +1,12 @@
 [
   {
-    "name": "ملک",
+    "name": "ÙÙÚ©",
     "enabled": true,
     "divarUrl": "https://divar.ir/s/tehran/real-estate?map_bbox=51.340466%2C35.669734%2C51.571659%2C35.823623&map_interaction=list_only_used&map_place_hash=1%7C%7Creal-estate"
+  },
+  {
+    "name": "me",
+    "enabled": true,
+    "divarUrl": "https://divar.ir/s/tehran/auto"
   }
 ]
